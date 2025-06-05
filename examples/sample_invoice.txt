@@ -1,0 +1,35 @@
+INVOICE
+
+Vendor: CloudStack Technologies Inc.
+123 Enterprise Boulevard, Suite 800
+Seattle, WA 98101
+
+Invoice Number: INV-2025-00347
+Invoice Date: 2025-03-10
+Due Date: 2025-04-09
+
+Bill To:
+Meridian Financial Group
+500 Market Street, Suite 1200
+San Francisco, CA 94105
+
+Purchase Order: PO-2025-1189
+
+Line Items:
+---------------------------------------------------------------------------
+Description                          Qty    Unit Price      Total
+---------------------------------------------------------------------------
+Enterprise Cloud Hosting (Annual)      1    $24,000.00    $24,000.00
+SSL Certificate Renewal                3       $199.00       $597.00
+24/7 Premium Support (Monthly)        12     $1,500.00    $18,000.00
+Data Backup Service (Monthly)         12       $350.00     $4,200.00
+API Gateway License                    1     $6,500.00     $6,500.00
+---------------------------------------------------------------------------
+
+Subtotal:                                               $53,297.00
+Tax (8.5%):                                              $4,530.25
+Grand Total:                                            $57,827.25
+
+Payment Terms: Net 30
+Please remit payment to: CloudStack Technologies Inc.
+Bank: First National Bank | Account: 8827-4419 | Routing: 071000013

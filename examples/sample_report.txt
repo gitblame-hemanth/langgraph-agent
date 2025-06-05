@@ -1,0 +1,22 @@
+Q4 2024 QUARTERLY BUSINESS REVIEW
+Prepared by: Strategic Analytics Division
+Report Date: January 18, 2025
+Period: October 1, 2024 - December 31, 2024
+
+EXECUTIVE SUMMARY
+Revenue grew 18% year-over-year to $12.4M, exceeding our $11.5M target by 7.8%. This growth was driven primarily by strong enterprise adoption in the financial services and healthcare verticals. Customer acquisition cost decreased 12% to $2,340 per account, reflecting improved marketing efficiency and higher organic inbound volume.
+
+KEY PERFORMANCE INDICATORS
+- Revenue: $12,400,000 (Target: $11,500,000) — +7.8% above target
+- Monthly Recurring Revenue (MRR): $4,133,333
+- Active Users: 84,200 (+22% YoY)
+- Churn Rate: 3.1% (Target: <5%) — within acceptable range
+- Net Promoter Score: 72 (+8 from Q3 2024)
+- Average Deal Size: $38,500 (+15% YoY)
+- Customer Lifetime Value: $142,000
+
+OPERATIONAL HIGHLIGHTS
+Infrastructure costs reduced by 23% ($340K annual savings) through migration to spot instances and reserved capacity planning. Engineering velocity improved 31% as measured by deployment frequency, from 3.2 deploys/week to 4.2 deploys/week. Support ticket resolution time decreased from 4.2 hours to 2.8 hours, a 33% improvement.
+
+RISKS AND OUTLOOK
+Competitor pricing pressure in the mid-market segment may impact Q1 2025 growth projections. Two key enterprise renewals totaling $1.2M are scheduled for January and carry moderate risk. The sales pipeline for Q1 stands at $8.7M with a weighted forecast of $5.1M, representing 94% of the quarterly target.

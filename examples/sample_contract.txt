@@ -1,0 +1,16 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is entered into as of January 15, 2025, by and between Acme Corporation, a Delaware corporation with offices at 200 Innovation Drive, Suite 400, Austin, TX 78701 ("Client"), and TechPro Solutions LLC, a California limited liability company with offices at 1500 Market Street, San Francisco, CA 94103 ("Provider").
+
+WHEREAS, Client desires to engage Provider to perform certain cloud infrastructure migration and managed services, and Provider desires to perform such services subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+Provider shall deliver cloud infrastructure migration services as described in Exhibit A, attached hereto and incorporated by reference. Services shall commence on February 1, 2025, and conclude no later than July 31, 2025. Provider shall assign a dedicated project manager and a team of no fewer than four (4) senior engineers to the engagement.
+
+2. COMPENSATION
+Client agrees to pay Provider a total fee of $450,000.00 USD, payable in six (6) equal monthly installments of $75,000.00 each. Payment is due within thirty (30) days of receipt of each monthly invoice. Late payments shall accrue interest at a rate of 1.5% per month.
+
+3. TERMINATION
+Either party may terminate this Agreement upon sixty (60) days prior written notice to the other party. In the event of a material breach that remains uncured for thirty (30) days following written notice thereof, the non-breaching party may terminate immediately. Upon termination, Client shall pay for all services rendered through the effective termination date, plus any pre-approved expenses incurred.
